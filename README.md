@@ -1,0 +1,1 @@
+# Vector-Database-with-LangChain-ChromaDB-and-OpenAI
